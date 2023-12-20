@@ -1,0 +1,11 @@
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;
+
+.slick-slider-dots li.slick-active button,
+.slick-slider-dots li button:hover {
+  @apply opacity-100 duration-300
+}
+.slick-slider-dots li {
+  @apply h-24
+}
