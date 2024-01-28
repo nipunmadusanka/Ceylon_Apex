@@ -19,15 +19,15 @@ export default function About() {
           <p className="text-[#404040]">Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armou like back and if he lifted his head a little he could see his brown belly</p>
           <div className="flex justify-between w-full">
             <div className="flex">
-              <div className="lg:text-5xl text-4xl font-semibold">15</div>
+              <div className="lg:text-5xl text-4xl font-semibold">3</div>
               <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-[#404040]">Years of experience</div>
             </div>
             <div className="flex">
-              <div className="lg:text-5xl text-4xl font-semibold">10</div>
+              <div className="lg:text-5xl text-4xl font-semibold">5</div>
               <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-[#404040]">Awards won</div>
             </div>
             <div className="flex">
-              <div className="lg:text-5xl text-4xl font-semibold">1k+</div>
+              <div className="lg:text-5xl text-4xl font-semibold">181</div>
               <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-[#404040]">Successfull projects</div>
             </div>
           </div>

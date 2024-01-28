@@ -15,7 +15,7 @@ export default function References() {
                 <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-[#404040]">Years of experience</div>
               </div>
             </li>
-            <li className="w-56 h-52 bg-white flex justify-center items-center p-8">
+            {/* <li className="w-56 h-52 bg-white flex justify-center items-center p-8">
             <span className="flex h-20 w-20 relative cursor-pointer" onClick={()=>{
               setVideo(true)
             }}>
@@ -25,15 +25,15 @@ export default function References() {
               <span className="animate-ping inline-flex h-full w-full rounded-full bg-yellow-500 opacity-50"></span>
               <span className="absolute inset-0 inline-flex rounded-full h-20 w-20 bg-[#A67C00]"></span>
             </span>
-            </li>
-            <li className="w-56 h-52 bg-transparent flex justify-center items-end p-8 cursor-pointer">
+            </li> */}
+            {/* <li className="w-56 h-52 bg-transparent flex justify-center items-end p-8 cursor-pointer">
             <h4 className="underline underline-offset-4 flex gap-[15px] items-center text-white -mt-1">
               Contact Us 
               <svg viewBox="0 0 9 9" fill="none" className="w-3 h-3">
                 <path d="M8.57107 0.928932C8.57107 0.65279 8.34721 0.428932 8.07107 0.428932L3.57107 0.428932C3.29493 0.428932 3.07107 0.65279 3.07107 0.928932C3.07107 1.20507 3.29493 1.42893 3.57107 1.42893L7.57107 1.42893L7.57107 5.42893C7.57107 5.70507 7.79493 5.92893 8.07107 5.92893C8.34721 5.92893 8.57107 5.70507 8.57107 5.42893L8.57107 0.928932ZM1.35355 8.35355L8.42462 1.28249L7.71751 0.575379L0.646447 7.64645L1.35355 8.35355Z" fill="white"/>
               </svg>
             </h4>
-            </li>
+            </li> */}
           </ul>
         </div>
       </section>
