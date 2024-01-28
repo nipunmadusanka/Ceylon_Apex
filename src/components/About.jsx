@@ -15,8 +15,8 @@ export default function About() {
           </h4>
         </div>
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px]">
-          <h3 className="text-4xl">I'm baby meditation slow-carb tumeric actually poutine ascot vaporware food truck</h3>
-          <p className="text-[#404040]">Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armou like back and if he lifted his head a little he could see his brown belly</p>
+          {/* <h3 className="text-4xl">I'm baby meditation slow-carb tumeric actually poutine ascot vaporware food truck</h3> */}
+          <p className="text-[#404040]">Transforming imagination into captivating realities, Ceylon Apex aspires to be a global leader in animation, delivering awe-inspiring storytelling and cutting-edge visuals that enchant audiences and redefine the boundaries of creative expression.</p>
           <div className="flex justify-between w-full">
             <div className="flex">
               <div className="lg:text-5xl text-4xl font-semibold">3</div>
