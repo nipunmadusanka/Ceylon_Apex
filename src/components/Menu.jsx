@@ -72,7 +72,7 @@ export default function Menu() {
           Team
         </Link>
       </li>
-      <li className="uppercase cursor-pointer">
+      {/* <li className="uppercase cursor-pointer">
         <Link
           className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:text-[#6f6f6f] lg:hover:text-[#212529]"
           to="blog"
@@ -86,7 +86,7 @@ export default function Menu() {
         >
           Blog
         </Link>
-      </li>
+      </li> */}
     </ul>
     
   )

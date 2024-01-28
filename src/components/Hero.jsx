@@ -35,7 +35,7 @@ export default function Hero() {
     slidesToShow: 1,
     autoplaySpeed: 3500,
     pauseOnHover: false,
-    speed: 700, 
+    speed: 1300, 
     easing: "ease-in",
     dotsClass: "slick-slider-dots absolute top-1/2 -left-[5.5%] -translate-y-1/2",
     customPaging: i => (
@@ -53,7 +53,7 @@ export default function Hero() {
           {slides.map((slide, i) => <Slide {...slide} key={i} />)}
         </Slider>
       </div>
-      {/* <div className="hidden w-1/12 lg:flex flex-col justify-center items-center gap-[60px] translate-y-[30px]">
+      <div className="hidden w-1/12 lg:flex flex-col justify-center items-center gap-[60px] translate-y-[30px]">
         <button className="p-[2px] opacity-50 hover:opacity-90 border border-black rounded-md">
           <img src={icon1} alt="be-hance" className="w-4 h-4" />
         </button>
@@ -63,7 +63,7 @@ export default function Hero() {
         <button className="p-[2px] opacity-50 hover:opacity-90 border border-black rounded-md">
           <img src={icon3} alt="linkedin" className="w-4 h-4" />
         </button>
-      </div> */}
+      </div>
     </section>
   )
 }
