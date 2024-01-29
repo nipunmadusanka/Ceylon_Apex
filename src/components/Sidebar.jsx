@@ -27,7 +27,7 @@ export default function Sidebar() {
         }
         <div className="flex flex-col justify-between gap-[15px] lg:gap-[30px] group mt-auto lg:mt-0 cursor-pointer">
           <h2 className="text-lg lg:text-4xl">Ceylon Apex. Best Creative Agency</h2>
-          <p className="text-[#808080] text-sm lg:text-base">Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armou like back and if he lifted.</p>
+          <p className="text-[#808080] text-sm lg:text-base">Welcome to Ceylon Apex – your gateway to captivating animation! We blend cutting-edge visuals with imaginative storytelling to redefine creative boundaries. Join us on a global journey of awe-inspiring experiences!</p>
           <h4 className="leading-none font-medium text-sm lg:text-base">
             {/* <a href="" className="opacity-30 group-hover:opacity-100 duration-300 relative flex gap-[30px] items-center">
               <div><span>Read more</span><div className="w-0 group-hover:w-full duration-300 h-[1px] bg-white mt-1"></div></div>
