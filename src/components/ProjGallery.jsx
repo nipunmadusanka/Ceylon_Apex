@@ -8,8 +8,8 @@ export default function ProjGallery() {
           className="lg:max-w-full lg:h-auto w-full h-80 object-cover group-hover:scale-110 duration-500 ease-in-out"
         />
         <div className="bg-white absolute bottom-[5%] left-[5%] p-3 opacity-0 blur-md group-hover:opacity-100 group-hover:blur-none duration-500">
-          <h5 className="text-xl mb-1 text-[#404040]">Brand Inspiration</h5>
-          <p className="uppercase text-xs text-[#626161] tracking-wide leading-none">brand</p>
+          <h5 className="text-xl mb-1 text-white">Brand Inspiration</h5>
+          <p className="uppercase text-xs text-white tracking-wide leading-none">brand</p>
         </div>
       </div>
       <div className="overflow-hidden relative scalepointer group">
@@ -19,8 +19,8 @@ export default function ProjGallery() {
           className="lg:max-w-full lg:h-auto w-full h-80 object-cover group-hover:scale-110 duration-500 ease-in-out" 
         />
         <div className="bg-white absolute bottom-[5%] left-[5%] p-3 opacity-0 blur-md group-hover:opacity-100 group-hover:blur-none duration-500">
-          <h5 className="text-xl mb-1 text-[#404040]">Brand Inspiration</h5>
-          <p className="uppercase text-xs text-[#626161] tracking-wide leading-none">brand</p>
+          <h5 className="text-xl mb-1 text-white">Brand Inspiration</h5>
+          <p className="uppercase text-xs text-white tracking-wide leading-none">brand</p>
         </div>
       </div>
       <div className="overflow-hidden relative scalepointer group col-start-1 col-end-3">
@@ -30,7 +30,7 @@ export default function ProjGallery() {
           className="lg:max-w-full lg:h-auto w-full h-80 object-cover group-hover:scale-110 duration-500 ease-in-out" 
         />
         <div className="bg-white absolute bottom-[5%] left-[2.5%] p-3 opacity-0 blur-md group-hover:opacity-100 group-hover:blur-none duration-500">
-          <h5 className="text-xl mb-1 text-[#404040]">Brand Inspiration</h5>
+          <h5 className="text-xl mb-1 text-white">Brand Inspiration</h5>
           <p className="uppercase text-xs text-[#626161] tracking-wide leading-none">brand</p>
         </div>
       </div>
@@ -41,8 +41,8 @@ export default function ProjGallery() {
           className="lg:max-w-full lg:h-auto w-full h-80 object-cover group-hover:scale-110 duration-500 ease-in-out" 
         />
         <div className="bg-white absolute bottom-[5%] left-[5%] p-3 opacity-0 blur-md group-hover:opacity-100 group-hover:blur-none duration-500">
-          <h5 className="text-xl mb-1 text-[#404040]">Brand Inspiration</h5>
-          <p className="uppercase text-xs text-[#626161] tracking-wide leading-none">brand</p>
+          <h5 className="text-xl mb-1 text-white">Brand Inspiration</h5>
+          <p className="uppercase text-xs text-white tracking-wide leading-none">brand</p>
         </div>
       </div>
       <div className="overflow-hidden relative scalepointer group">
@@ -52,8 +52,8 @@ export default function ProjGallery() {
           className="lg:max-w-full lg:h-auto w-full h-80 object-cover group-hover:scale-110 duration-500 ease-in-out" 
         />
         <div className="bg-white absolute bottom-[5%] left-[5%] p-3 opacity-0 blur-md group-hover:opacity-100 group-hover:blur-none duration-500">
-          <h5 className="text-xl mb-1 text-[#404040]">Brand Inspiration</h5>
-          <p className="uppercase text-xs text-[#626161] tracking-wide leading-none">brand</p>
+          <h5 className="text-xl mb-1 text-white">Brand Inspiration</h5>
+          <p className="uppercase text-xs text-white tracking-wide leading-none">brand</p>
         </div>
       </div>
     </div>

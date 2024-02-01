@@ -6,7 +6,7 @@ export default function TeamProfile({img, name, position}) {
         </div>
         <div className="tracking-wide">
           <h5 className="text-2xl font-medium leading-relaxed text-[#404040]">{name}</h5>
-          <p className="uppercase text-sm text-[#404040]">{position}</p>
+          <p className="uppercase text-sm text-white">{position}</p>
         </div>
       </article>
   )

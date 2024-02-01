@@ -3,7 +3,7 @@ import Post from "./Post"
 export default function Blog() {
   return(
     <section className="py-24" id="blog">
-      <div className="lg:w-10/12 w-11/12 flex flex-col lg:flex-row content-center items-start h-full mx-auto gap-[15px]">
+      <div className="lg:w-10/12 w-11/12 flex flex-col lg:flex-row text-white content-center items-start h-full mx-auto gap-[15px]">
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px]">
           <h4 className="leading-none font-medium">Insights <span className="inline-block w-16 h-[1px] bg-black ml-4 align-middle"></span></h4>
           <div className="lg:max-w-min">

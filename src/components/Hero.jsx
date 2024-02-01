@@ -7,19 +7,31 @@ import icon3 from "../assets/b-social-3.svg"
 
 const slides = [
   {
-    image: "../img/slider_1.jpeg",
+    image: "../img/1.png",
     title: "Design",
     subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
     active: false
   },
   {
-    image: "../img/slider_2.jpeg",
+    image: "../img/2.png",
     title: "Develop",
     subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
     active: false
   },
   {
-    image: "../img/slider_2.jpeg",
+    image: "../img/3.png",
+    title: "Enhance",
+    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+    active: false
+  },
+  {
+    image: "../img/4.png",
+    title: "Enhance",
+    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+    active: false
+  },
+  {
+    image: "../img/5.png",
     title: "Enhance",
     subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
     active: false

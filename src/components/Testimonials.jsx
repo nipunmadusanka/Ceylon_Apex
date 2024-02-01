@@ -33,10 +33,10 @@ export default function Testimonials() {
     <section className="py-24">
       <div className="lg:w-10/12 w-11/12 flex flex-col lg:flex-row items-center mx-auto gap-[15px]">
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px] mb-12 lg:mb-0">
-          <h4 className="leading-none font-medium">
-            Testimonials <span className="inline-block w-16 h-[1px] bg-black ml-4 align-middle"></span>
+          <h4 className="leading-none font-medium text-white">
+            Testimonials <span className="inline-block text-white w-16 h-[1px] bg-black ml-4 align-middle"></span>
           </h4>
-          <h2 className="text-5xl lg:text-7xl leading-none font-medium">What our client’s says about our work.</h2>
+          <h2 className="text-5xl lg:text-7xl leading-none text-white font-medium">What our client’s says about our work.</h2>
         </div>
         <div className="lg:w-1/2">
           <div className="w-96 lg:w-[800px]">

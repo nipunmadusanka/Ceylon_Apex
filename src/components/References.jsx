@@ -12,7 +12,7 @@ export default function References() {
             <li className="w-56 h-52 bg-white flex justify-center items-end p-8">
               <div className="flex">
                 <div className="text-5xl font-semibold">15</div>
-                <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-[#404040]">Years of experience</div>
+                <div className="text-xs capitalize self-end w-min mb-1 ml-1">Years of experience</div>
               </div>
             </li>
             {/* <li className="w-56 h-52 bg-white flex justify-center items-center p-8">

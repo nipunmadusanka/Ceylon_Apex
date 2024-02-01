@@ -20,7 +20,7 @@ export default function Topbar() {
     }
   }, [])
   return (
-    <div className="fixed inset-x-0 bg-white w-full z-20" ref={containerRef} id="top">
+    <div className="fixed inset-x-0 bg-black w-full z-20" ref={containerRef} id="top">
       <div className="flex justify-between items-center mx-auto py-5 w-11/12 lg:w-10/12 lg:py-0 lg:h-[100px]">
         <img
           src="../img/logo1.png"

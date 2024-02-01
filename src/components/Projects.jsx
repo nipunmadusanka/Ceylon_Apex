@@ -2,7 +2,7 @@ import ProjGallery from "./ProjGallery";
 
 export default function Projects() {
   return (
-    <section className="pt-24" id="works">
+    <section className="pt-24 text-white" id="works">
       <div className="lg:w-10/12 w-11/12 flex flex-col lg:flex-row items-center mx-auto gap-[15px]">
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px]">
           <h4 className="leading-none font-medium">
@@ -13,7 +13,7 @@ export default function Projects() {
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px]">
           <p></p>
           <p></p>
-          <p className="text-[#404040]">Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armou like back and if he lifted his head a little he could see his brown belly</p>
+          <p className="text-white">Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armou like back and if he lifted his head a little he could see his brown belly</p>
           <h4 className="leading-none font-medium flex gap-[15px] items-center">
             <a href="" className="text-[#404040] hover:text-[#212529] flex gap-[15px] items-center">
               Explore all projects
