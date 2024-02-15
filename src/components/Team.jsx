@@ -60,7 +60,7 @@ export default function Team() {
               <TeamProfile key="01" img="1.Creative Director.png" name="Gihan Weerasekara" position="Creative Director" />
               <TeamProfile key="03" img="3.Scriptwriter & Photographer.png" name="Lahiru Waduthanthri" position="Scriptwriter & Photographer" />
               <TeamProfile key="01" img="4.Animator & videographer.png" name="Chathuranga Aberathne" position="Animator & videographer" />
-              <TeamProfile key="02" img="5.Storyboard Artists.png" name="Susan Smith" position="Storyboard Artists" />
+              <TeamProfile key="02" img="5.Storyboard Artists.png" name="Harshi Madhuwanthi" position="Storyboard Artists" />
               <TeamProfile key="03" img="Animator.png" name="Sachin Anupama" position="Animator" />
               <TeamProfile key="03" img="UX Designer_.png" name="Nipun Madusanka" position="UX Designer" />
               <TeamProfile key="03" img="IMG_3243.JPG" name="Harshaka abegunawardane" position="Music director" />
