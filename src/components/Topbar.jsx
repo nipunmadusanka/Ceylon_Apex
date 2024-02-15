@@ -23,9 +23,9 @@ export default function Topbar() {
     <div className="fixed inset-x-0 bg-black w-full z-20" ref={containerRef} id="top">
       <div className="flex justify-between items-center mx-auto py-5 w-11/12 lg:w-10/12 lg:py-0 lg:h-[100px]">
         <img
-          src="../img/logo1.png"
+          src="../img/LOGO2.png"
           alt="Company Logo"
-          className="cursor-pointer w-24 h-auto"
+          className="cursor-pointer w-16 h-auto"
           onClick={() => { scroll.scrollToTop() }}
         />
         <nav className="hidden lg:block lg:w-6/12">
