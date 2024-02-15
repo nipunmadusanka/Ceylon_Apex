@@ -58,7 +58,6 @@ export default function Team() {
           <div className="w-80 lg:w-[800px]">
             <Slider {...sliderSettings}>
               <TeamProfile key="01" img="1.Creative Director.png" name="Gihan Weerasekara" position="Creative Director" />
-              <TeamProfile key="02" img="2.Managing Director.png" name="Shyami Dissanayake" position="Managing Director" />
               <TeamProfile key="03" img="3.Scriptwriter & Photographer.png" name="Lahiru Waduthanthri" position="Scriptwriter & Photographer" />
               <TeamProfile key="01" img="4.Animator & videographer.png" name="Chathuranga Aberathne" position="Animator & videographer" />
               <TeamProfile key="02" img="5.Storyboard Artists.png" name="Susan Smith" position="Storyboard Artists" />
