@@ -20,7 +20,6 @@ export default function Footer() {
           <ul className="mt-[10px] leading-relaxed">
             <li className="hover:text-[#6f6f6f] cursor-pointer">Instagram</li>
             <li className="hover:text-[#6f6f6f] cursor-pointer">Linkedin</li>
-            <li className="hover:text-[#6f6f6f] cursor-pointer">Github</li>
             <li className="hover:text-[#6f6f6f] cursor-pointer">Facebook</li>
           </ul>
         </div>
