@@ -1,6 +1,6 @@
 export default function About() {
   return(
-    <section className="lg:min-h-[90vh] pt-24 text-white" id="about">
+    <section className="lg:min-h-[60vh] pt-24 text-white" id="about">
       <div className="flex flex-col lg:flex-row lg:w-10/12 lg:gap-[15px] gap-[30px] w-11/12 content-center items-center h-full  mx-auto">
         <div className="lg:w-1/2 flex flex-col items-start justify-center gap-[30px]">
           <h4 className="leading-none font-medium">About us <span className="inline-block w-16 h-[1px] bg-black ml-4 align-middle"></span></h4>
@@ -19,7 +19,7 @@ export default function About() {
           <p className="text-white">Transforming imagination into captivating realities, Ceylon Apex aspires to be a global leader in animation, delivering awe-inspiring storytelling and cutting-edge visuals that enchant audiences and redefine the boundaries of creative expression.</p>
           <div className="flex justify-between w-full">
             <div className="flex">
-              <div className="lg:text-5xl text-4xl font-semibold">3</div>
+              <div className="lg:text-5xl text-4xl font-semibold">6</div>
               <div className="text-xs capitalize self-end w-min mb-1 ml-1 text-white">Years of experience</div>
             </div>
             <div className="flex">

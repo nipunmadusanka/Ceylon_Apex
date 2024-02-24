@@ -1,6 +1,6 @@
 export default function Footer() {
   return(
-    <section className="py-24">
+    <section className="py-24 bg-zinc-800">
       <div className="lg:w-10/12 w-11/12 mx-auto flex flex-col lg:flex-row gap-[15px] text-white">
         <div className="lg:w-5/12">
           <h1 className="text-4xl font-bold">Ceylon Apex</h1>
@@ -18,10 +18,10 @@ export default function Footer() {
         <div className="lg:w-2/12 text-white">
           <h5 className="text-lg uppercase">Social</h5>
           <ul className="mt-[30px] leading-relaxed">
-            <li className="hover:text-[#212529] cursor-pointer">Instagram</li> 
-            <li className="hover:text-[#212529] cursor-pointer">Linkedin</li> 
-            <li className="hover:text-[#212529] cursor-pointer">Github</li> 
-            <li className="hover:text-[#212529] cursor-pointer">Facebook</li> 
+            <li className="hover:text-[#6f6f6f] cursor-pointer">Instagram</li> 
+            <li className="hover:text-[#6f6f6f] cursor-pointer">Linkedin</li> 
+            <li className="hover:text-[#6f6f6f] cursor-pointer">Github</li> 
+            <li className="hover:text-[#6f6f6f] cursor-pointer">Facebook</li> 
           </ul>
         </div>
       </div>

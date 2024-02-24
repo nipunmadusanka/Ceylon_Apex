@@ -20,7 +20,7 @@ export default function Topbar() {
     }
   }, [])
   return (
-    <div className="fixed inset-x-0 bg-black w-full z-20" ref={containerRef} id="top">
+    <div className="fixed inset-x-0 bg-zinc-800 w-full z-20" ref={containerRef} id="top">
       <div className="flex justify-between items-center mx-auto py-5 w-11/12 lg:w-10/12 lg:py-0 lg:h-[100px]">
         <img
           src="../img/LOGO2.png"
@@ -38,10 +38,10 @@ export default function Topbar() {
               document.body.style.overflowY = 'hidden'
             }}>
               <svg className="w-10 h-10" viewBox="0 0 48 48" fill="none">
-                <circle cx="14" cy="24" r="3" fill="black" />
-                <circle cx="24" cy="24" r="3" fill="black" />
-                <circle cx="34" cy="24" r="3" fill="black" />
-                <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" stroke="black" />
+                <circle cx="14" cy="24" r="3" fill="white" />
+                <circle cx="24" cy="24" r="3" fill="white" />
+                <circle cx="34" cy="24" r="3" fill="white" />
+                <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" stroke="white" />
               </svg>
             </button>
           </div>

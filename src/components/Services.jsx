@@ -2,7 +2,7 @@ import ServiceCard from "./ServiceCard"
 
 export default function Services() {
   return (
-    <section className="relative z-10 pb-28 pt-12" id="services">
+    <section className="relative z-10 pb-28" id="services">
       <div className="bg-black absolute bottom-0 left-0 right-0 lg:h-[65%] h-[50%] -z-10"></div>
       <div className="lg:w-10/12 w-11/12 mx-auto flex flex-col lg:flex-row justify-center items-start gap-[15px]">
         <ServiceCard key="01" numb="01" title="Commercial Graphics" desc="Commercial Graphics is a type of graphic art that is made for commercial use. such as advertising and magazine or book illustrations.">

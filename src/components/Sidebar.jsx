@@ -10,7 +10,7 @@ export default function Sidebar() {
   const {isMobile, sidebar, setSidebar} = useContext(Context)
   return(
     <div className={`w-screen h-screen bg-[rgba(0,0,0,0.8)] fixed inset-0 z-30 duration-300 ${!sidebar && "translate-x-full"}`}>
-      <aside className="bg-black fixed top-0 right-0 h-screen w-full lg:max-w-[30%] pt-6 pb-20 px-8 lg:py-12 lg:px-14 text-white flex flex-col justify-start gap-[15px] lg:gap-[30px]">
+      <aside className="bg-zinc-800 fixed top-0 right-0 h-screen w-full lg:max-w-[30%] pt-6 pb-20 px-8 lg:py-12 lg:px-14 text-white flex flex-col justify-start gap-[15px] lg:gap-[30px]">
         <div className="text-xl text-white text-right origin-center hover:rotate-[360deg] duration-300 cursor-pointer hover:scale-125 self-end" onClick={()=>{
           setSidebar(false)
           document.body.style.overflowY = 'scroll'

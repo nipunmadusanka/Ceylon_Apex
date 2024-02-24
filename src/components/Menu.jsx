@@ -14,7 +14,7 @@ export default function Menu() {
     <ul className="flex flex-col lg:flex-row lg:items-center lg:justify-between w-full">
       <li className="uppercase cursor-pointer">
         <Link
-          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:text-[#6f6f6f] lg:hover:text-[#212529]"
+          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:hover:text-[#6f6f6f]"
           to="about"
           spy={true}
           smooth={true}
@@ -29,7 +29,7 @@ export default function Menu() {
       </li>
       <li className="uppercase cursor-pointer">
         <Link
-          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:text-[#6f6f6f] lg:hover:text-[#212529]"
+          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:hover:text-[#6f6f6f]"
           to="services"
           spy={true}
           smooth={true}
@@ -44,7 +44,7 @@ export default function Menu() {
       </li>
       <li className="uppercase cursor-pointer">
         <Link
-          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:text-[#6f6f6f] lg:hover:text-[#212529]"
+          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:hover:text-[#6f6f6f]"
           to="works"
           spy={true}
           smooth={true}
@@ -59,7 +59,7 @@ export default function Menu() {
       </li>
       <li className="uppercase cursor-pointer">
         <Link
-          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:text-[#6f6f6f] lg:hover:text-[#212529]"
+          className="text-white lg:text-base text-[42px] leading-[1.25em] font-medium lg:hover:text-[#6f6f6f]"
           to="team"
           spy={true}
           smooth={true}
