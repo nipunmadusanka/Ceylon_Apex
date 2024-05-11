@@ -49,7 +49,7 @@ export default function Pointer() {
     }
   },[])
   return(
-    <div className="w-12 h-12 z-40 relative">
+    <div className="w-12 z-40 relative">
       <div
         className={`${!isOverLinks.current && "w-9 h-9"} border-red-600 border rounded-full bg-transparent fixed top-0 left-0 z-50 pointer-events-none`}
         ref={pointerRef} 
