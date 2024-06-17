@@ -48,7 +48,7 @@ export default function Testimonials() {
               />
               <TestimCard
                 author={{name: "Kevin Powell", position: "Social media expert"}}
-                quote="Ceylon-Apex's expertise in the marketing field is truly exceptional. Their insights and strategic direction helped us craft a social media presence that not only engages but also converts. Their attention to detail and understanding of the digital landscape made all the difference. We could not have asked for a better partner in this endeavor."
+                quote="Ceylon-Apexs expertise in the marketing field is truly exceptional. Their insights and strategic direction helped us craft a social media presence that not only engages but also converts. Their attention to detail and understanding of the digital landscape made all the difference. We could not have asked for a better partner in this endeavor."
                 key="02"
               />
               <TestimCard
