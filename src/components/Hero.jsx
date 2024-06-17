@@ -9,33 +9,33 @@ const slides = [
   {
     image: "../img/1.png",
     title: "Design",
-    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+    subtitle: "Transforming Marketing Visions into Reality with Exceptional Design Solutions",
     active: false
   },
   {
     image: "../img/2.png",
     title: "Develop",
-    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+    subtitle: "Developing Cutting-Edge Marketing Campaigns that Drive Results",
     active: false
   },
   {
     image: "../img/3.png",
     title: "Enhance",
-    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+    subtitle: "Elevate and Enhance Your Brand with Innovative Marketing Strategies",
     active: false
   },
-  {
-    image: "../img/4.png",
-    title: "Enhance",
-    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
-    active: false
-  },
-  {
-    image: "../img/5.png",
-    title: "Enhance",
-    subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
-    active: false
-  },
+  // {
+  //   image: "../img/4.png",
+  //   title: "Enhance",
+  //   subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+  //   active: false
+  // },
+  // {
+  //   image: "../img/5.png",
+  //   title: "Enhance",
+  //   subtitle: "Helplessly as he looked what's happened to me he thought wasn't a dream. His room, a proper human",
+  //   active: false
+  // },
 ]
 export default function Hero() {
   const sliderSettings = {
