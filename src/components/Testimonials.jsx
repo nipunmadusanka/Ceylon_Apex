@@ -43,22 +43,22 @@ export default function Testimonials() {
             <Slider {...sliderSettings}>
               <TestimCard
                 author={{name: "Deon Norjan", position: "Project manager"}}
-                quote="Magazine and housed in a nice, gilded frame. It showed a lady fitted out with  organization boa who sat upright, raising towards heltorganic associat minor issue help woke from troubled dreams, he found himself transformed"
+                quote="Working with Ceylon-Apex has been an incredible journey. Their commitment to innovative solutions and strategic marketing has elevated our project to new heights. Their clear communication and timely feedback made the development process smooth and efficient. Were proud of the result and look forward to more collaborations."
                 key="01"
               />
               <TestimCard
                 author={{name: "Kevin Powell", position: "Social media expert"}}
-                quote="Divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any momentMagazine and housed in a nice, gilded frame. It showed a lady fitted out   organization boa who sat upright"
+                quote="Ceylon-Apex's expertise in the marketing field is truly exceptional. Their insights and strategic direction helped us craft a social media presence that not only engages but also converts. Their attention to detail and understanding of the digital landscape made all the difference. We could not have asked for a better partner in this endeavor."
                 key="02"
               />
               <TestimCard
                 author={{name: "Jhon Doe", position: "Developer team leader"}}
-                quote="Magazine and housed in a nice, gilded frame. It showed a lady fitted out with  organization boa who sat upright, raising towards heltorganic associat minor issue help woke from troubled dreams, he found himself transformed"
+                quote="Developing the web application for Ceylon-Apex was a remarkable experience. Their vision and clear requirements enabled our team to build a robust and user-friendly platform. Their feedback was invaluable in refining the project to meet the highest standards. Its been a pleasure to see their ideas come to life through our code."
                 key="03"
               />
               <TestimCard
                 author={{name: "Susan Smith", position: "Art director"}}
-                quote="Divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any momentMagazine and housed in a nice, gilded frame. It showed a lady fitted out   organization boa who sat upright"
+                quote="Collaborating with Ceylon-Apex has been a rewarding creative experience. Their passion for innovative design and strategic thinking made the creative process both challenging and fulfilling. Their feedback helped us push boundaries and deliver a visually stunning and effective website. Its been an honor to work with such a forward-thinking agency."
                 key="04"
               />
             </Slider>
